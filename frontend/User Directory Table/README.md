@@ -13,6 +13,11 @@ A React web application that fetches and displays user data from the ReqRes API 
 ✅ **Mobile Responsive**: Optimized for mobile and tablet devices  
 ✅ **Error Handling**: Graceful error handling with user-friendly messages  
 
+<img width="1849" height="927" alt="Screenshot 2025-10-27 201454" src="https://github.com/user-attachments/assets/b0efd3f3-21f5-4c3e-b551-24f5549188ce" />
+
+<img width="1834" height="871" alt="Screenshot 2025-10-27 201515" src="https://github.com/user-attachments/assets/54a003a3-87c4-4cae-9cba-e81283b6dfe7" />
+
+
 ## Getting Started
 
 ### Prerequisites
