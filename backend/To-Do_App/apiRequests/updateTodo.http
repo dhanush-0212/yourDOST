@@ -1,0 +1,12 @@
+### GET request to example server
+GET https://examples.http-client.intellij.net/get
+    ?generated-in=IntelliJ IDEA
+
+###
+PUT http://localhost:8080/todos/1
+Content-Type: application/json
+
+{
+  "title": "health",
+  "description": "Go to hospital and check up"
+}
